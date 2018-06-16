@@ -1,4 +1,4 @@
 Trying to make a new profile website.
 
-##View
+## View
 https://noiseabstraction-rqlxbezsgf.now.sh/
